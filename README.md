@@ -2,7 +2,7 @@
 
 **Founder, CEO & Full-Stack Software Engineer building scalable systems used by real businesses and real users.**
 
-I'm a software engineer based in Japan, currently studying at **Keio University**, receving a full-ride **MEXT Scholarhip** based on academic merit, and building production software with real-world impact.
+Based in Japan, currently studying at **Keio University**, receving a full-ride **MEXT Scholarhip** based on academic merit, and building production software with real-world impact.
 
 I specialize in full-stack development, backend systems, database architecture, REST APIs, and scalable business applications. My work includes **Luma ERP**, a cloud-based multi-tenant ERP platform used daily by **200+ manufacturing employees across 4 factories**, and **Kakei Miniapp**, a bilingual LINE-based budget tracker that scans receipts, stores transactions, and visualizes spending inside LINE.
 
