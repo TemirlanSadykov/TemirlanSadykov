@@ -2,24 +2,9 @@
 
 **Founder, CEO & Full-Stack Software Engineer building scalable systems used by real businesses and real users.**
 
-I'm a software engineer based in Japan, currently studying at **Keio University** and building production software with real-world impact.
+I'm a software engineer based in Japan, currently studying at **Keio University**, receving a full-ride **MEXT Scholarhip** based on academic merit, and building production software with real-world impact.
 
-I specialize in full-stack development, backend systems, database architecture, REST APIs, and scalable business applications. My work includes **Luma ERP**, a cloud-based multi-tenant ERP platform used daily by **200+ manufacturing employees across 4 factories**, and **Kakei**, a bilingual LINE-based budget tracker that scans receipts, stores transactions, and visualizes spending inside LINE.
-
-I care about building reliable software that solves real operational problems - systems that people actually use every day.
-
----
-
-## 🚀 About Me
-
-- 🎓 Student at **Keio University**, Faculty of Environment and Information Studies
-- 🏆 **MEXT Scholar** - full-ride scholarship based on academic merit
-- 🧠 Researching real-time transaction processing and database systems at **AI Systems Laboratory** under Prof. Kawashima
-- 🏭 Founder & CEO of **Luma ERP**, a multi-tenant enterprise resource planning system for apparel manufacturing industry
-- 🧾 Building **Kakei**, a bilingual LINE budget tracker for receipt scanning and spending analysis
-- 💻 Full-stack engineer working with **Python/Django**, **JavaScript/React**, **PostgreSQL**, and **AWS**
-- ⚙️ Interested in scalable backend systems, system design, database architecture, and real-world software products
-- 🌏 Based in **Fujisawa, Kanagawa, Japan**
+I specialize in full-stack development, backend systems, database architecture, REST APIs, and scalable business applications. My work includes **Luma ERP**, a cloud-based multi-tenant ERP platform used daily by **200+ manufacturing employees across 4 factories**, and **Kakei Miniapp**, a bilingual LINE-based budget tracker that scans receipts, stores transactions, and visualizes spending inside LINE.
 
 ---
 
@@ -47,11 +32,6 @@ I care about building reliable software that solves real operational problems - 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
